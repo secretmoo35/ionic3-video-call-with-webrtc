@@ -1,0 +1,8 @@
+{
+  "name": "ionic3-video-callling-webrtc",
+  "app_id": "",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
